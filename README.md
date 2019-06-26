@@ -3,3 +3,7 @@
 # BloggerPS
 PowerShell module to parse the export of a Blogger's blog
 
+## Features
+
+* Retrieve Post
+* Retrieve Pages
